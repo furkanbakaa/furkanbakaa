@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Baka</h1>
 <h3 align="center">A student with a passion for technology</h3>
 
-- 🔭 I’m currently working on [Chat App with React and Next.js](https://github.com/furkanbakaa/react-firebase-chat)
+- 🔭 I’m currently working on [Chat App with React and Firebase](https://github.com/furkanbakaa/react-firebase-chat)
 
 - 🌱 I’m currently learning **Flutter and React Native**
 
