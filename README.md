@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Furkan Baka</h1>
 <h3 align="center">A student with a passion for technology</h3>
 
-- 🔭 I’m currently working on [Chat App with React and Firebase](https://github.com/furkanbakaa/react-firebase-chat)
+- 🔭 I’m currently working on [Realtime Responsive Chat App ](https://github.com/furkanbakaa/Realtime-Resp-Chat-App)
 
-- 🌱 I’m currently learning **Flutter and React Native**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **furkanbaka9@gmail.com**
 
