@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Baka</h1>
 <h3 align="center">A student with a passion for technology</h3>
 
-- 🔭 I’m currently working on [Developer Portfolio With Next.Js ](https://github.com/furkanbakaa/dev-portfolio)
+- 🔭 I’m currently working on [Startup Website With Next.Js ](https://github.com/furkanbakaa/startup-web)
 
 - 🌱 I’m currently learning **React**
 
