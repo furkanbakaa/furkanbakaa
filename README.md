@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Baka</h1>
 <h3 align="center">A student with a passion for technology</h3>
 
-- 🔭 I’m currently working on [Video Sharing App With React Native ](https://github.com/furkanbakaa/Pixel-video-sharing-app)
+- 🔭 I’m currently working on [School Management Dashboard with Next.js ](https://github.com/furkanbakaa/school-management-dashboard)
 
 - 🌱 I’m currently learning **React Native**
 
